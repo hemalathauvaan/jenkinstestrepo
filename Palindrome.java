@@ -1,7 +1,7 @@
 class Palindrome{
 	public static void main(String args[]){  
 		int r,sum=0,temp;    
-		int n=4525;  
+		int n=656;  
   
 		temp=n;    
 		while(n>0){    
