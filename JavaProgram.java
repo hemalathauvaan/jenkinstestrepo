@@ -6,7 +6,7 @@ class DisplayRes{
 			System.out.println("a["+i+"] is " + a[i]);
 	}  
 }  
-public class TestEmployee{
+public class JavaProgram{
 	public static void main(String args[]){
 		DisplayRes dr=new DisplayRes();
 		dr.display();  
