@@ -1,2 +1,2 @@
 # jenkinstestrepo
-public repository for jenkins testing purpose
+public repository for jenkins testing
