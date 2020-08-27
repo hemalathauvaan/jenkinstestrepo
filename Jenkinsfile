@@ -8,7 +8,7 @@ pipeline {
 		}
 		stage('stage2') {
 			steps {
-				echo "git checkout from all the branches"
+				echo "Welcome to stage2"
 			}
 		}
 	}
